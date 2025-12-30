@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 1 
+https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 2
+https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 3
+https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 4
+https://live5.msrktz.app/live/14707124.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 5
+https://live5.msrktz.app/live/87547578.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 6
+https://live5.msrktz.app/live/75915087.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 7
+https://live.sethf7.com/live/67116834_ffc7d37fe1f095a2a6ae2d01ec19882b_autoChange.m3u8?auth_key=1767116329-0-0-bc05bdb29546c4b18fe540109ec84930
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e5f10d98b07253fa2237b4b95289d16b&txTime=69542e6e
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 9
+https://live.inplyr.com/room/168740.m3u8
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=51e3bc8cc41659351d5a75a028bffd44&txTime=69542f5e
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 10
+https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1767107070-0-0-6a0c03f847d30af39539a4894afb9070
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 11
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1767106890-0-0-e601806de03dc5bf1c9290f3465ce481
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 12
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1767107190-0-0-e26a6f5e7a35264ac2b712251d297874
+
