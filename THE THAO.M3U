@@ -50,6 +50,8 @@ https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fd
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1766755589-0-0-2d4004cdb62c30850681c94c129588c5 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE SOCOLIVE 2
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1936deb7723048c07f8e7241dc98a48a&txTime=694ed409 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE 3 
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1766838570-0-0-8a012533f3061c7b6f1c8c47dcceedb3
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE PHÁO
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE CỤ RÙA
@@ -68,21 +70,21 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", SPORTS TV 🇹🇷 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 
-#EXTINF:-1 group-title="TOP TOP ", BÚN 
+#EXTINF:-1 group-title="TOP TOP", BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
-#EXTINF:-1 group-title="TOP TOP ", ADAM 
+#EXTINF:-1 group-title="TOP TOP", ADAM 
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE 6 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8 
-#EXTINF:-1 group-title="TOP TOP ", CHAIEN 
+#EXTINF:-1 group-title="TOP TOP", CHAIEN 
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8 
-#EXTINF:-1 group-title="TOP TOP ", TÔM MÌ 
+#EXTINF:-1 group-title="TOP TOP", TÔM MÌ 
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 group-title="TOP TOP ", BED 
+#EXTINF:-1 group-title="TOP TOP", BED 
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 group-title="TOP TOP ", LIL SHADY 
+#EXTINF:-1 group-title="TOP TOP", LIL SHADY 
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8 
-#EXTINF:-1 group-title="TOP TOP ", CÒI XƯƠNG 
+#EXTINF:-1 group-title="TOP TOP", CÒI XƯƠNG 
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE  THIEN DO 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo.m3u8 
@@ -181,7 +183,79 @@ https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766582070-0-0-032c
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TOMIA 
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1766583329-0-0-c7cabd9cabda4eb17f6c80c672c84df9 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG CHẤT 
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-30985b 
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-30985b
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SÙNG A MÚP 
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1766524528-0-0-9c0a75b41e227af68d5608b366f3ff79 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE JACK MAN 
+https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766594490-0-0-31d93c7b91d4d74a6f3054fe56e4fe30 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XO COCA 
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VOI 
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHAN SENA 
+https://live.inplyr.com/room/515530.m3u8 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A BỆU 
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1766838570-0-0-8a012533f3061c7b6f1c8c47dcceedb3 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX 
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766751689-0-0-c31bf30b3d89d73b7206d952ced60f29 
+#EXTINF:-1 group-title="LƯƠNG SƠN", YẾN THANH 
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582 
+#EXTINF:-1 group-title="LƯƠNG SƠN", THỜI THIÊN 
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86 
+#EXTINF:-1 group-title="LƯƠNG SƠN", KEVILL 
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107 
+#EXTINF:-1 group-title="LƯƠNG SƠN", TỐNG GIANG 
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca 
+#EXTINF:-1 group-title="LƯƠNG SƠN", HOA VINH 
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb 
+#EXTINF:-1 group-title="LƯƠNG SƠN", LÝ QUỲ 
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3 
+#EXTINF:-1 group-title="LƯƠNG SƠN", VĂN VỸ 
+https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a 
+#EXTINF:-1 group-title="LƯƠNG SƠN", LƯU BỊ 
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1 
+#EXTINF:-1 group-title="LƯƠNG SƠN", TẦN CA 
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68 
+#EXTINF:-1 group-title="LƯƠNG SƠN", TRƯƠNG THANH 
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973 
+#EXTINF:-1 group-title="LƯƠNG SƠN", QUAN VŨ 
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7 
+#EXTINF:-1 group-title="LƯƠNG SƠN", VÕ TÒNG 
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299 
+#EXTINF:-1 group-title="LƯƠNG SƠN", MÃ SIÊU 
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b 
+#EXTINF:-1 group-title="LƯƠNG SƠN", NGŨ CA 
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526 
+#EXTINF:-1 group-title="LƯƠNG SƠN", TRIỆU TỬ LONG 
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070 
+#EXTINF:-1 group-title="LƯƠNG SƠN", LỮ BỐ 
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1 
+#EXTINF:-1 group-title="LƯƠNG SƠN", VƯƠNG LUÂN 
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f 
+#EXTINF:-1 group-title="LƯƠNG SƠN", A TỦA 
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74 
+#EXTINF:-1 group-title="LƯƠNG SƠN", CHU ĐỒNG 
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46 
+#EXTINF:-1 group-title="LƯƠNG SƠN", LÝ ỨNG 
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d 
+#EXTINF:-1 group-title="LƯƠNG SƠN", NHỊ CA 
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd 
+#EXTINF:-1 group-title="LƯƠNG SƠN", TÂY MÔN KHÁNH 
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da 
+#EXTINF:-1 group-title="LƯƠNG SƠN", TÔN LẬP 
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df 
+#EXTINF:-1 group-title="LƯƠNG SƠN", KHỔNG MINH 
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31 
+#EXTINF:-1 group-title="LƯƠNG SƠN", GIÁO SƯ XOAY 
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0 
+#EXTINF:-1 group-title="LƯƠNG SƠN", DƯƠNG QUÁ 
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981 
+#EXTINF:-1 group-title="LƯƠNG SƠN", CONAN 
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33 
+#EXTINF:-1 group-title="LƯƠNG SƠN", LƯƠNG SƠN QUÁN 
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1766680709-0-0-d0da066855730a025a517175440949ba 
+#EXTINF:-1 group-title="LƯƠNG SƠN", LƯƠNG SƠN 
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1766680949-0-0-b5a811561c7b1fad7f1ecfd92d5aba66  
 #EXTINF:-1 group-title="SPORT",Goal TV 
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8 
 #EXTINF:-1 group-title="SPORT", Billiards+ 
@@ -211,7 +285,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8 
 #EXTINF:-1 group-title="SPORT",UFL FS 1 SPORT 🇺🇸 
 http://212.102.60.10/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP ", AVATAR 2: DÒNG CHẢY CỦA NƯỚC
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", AVATAR 2: DÒNG CHẢY CỦA NƯỚC
 https://s5.phim1280.tv/20250513/XQBfOc33/index.m3u8  
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP",AVATAR 3: LỬA VÀ TRO TÀN 
 https://vip.opstream10.com/20251218/31897_14b14c86/3000k/hls/mixed.m3u8 
