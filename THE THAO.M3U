@@ -20,9 +20,9 @@ https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=51e3bc8cc41659351d5
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 10
 https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1767107070-0-0-6a0c03f847d30af39539a4894afb9070
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 11
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1767106890-0-0-e601806de03dc5bf1c9290f3465ce481
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1767190170-0-0-4857da1af0fcfcb30db9bf2dc2b31537
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 12
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1767107190-0-0-e26a6f5e7a35264ac2b712251d297874
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1767190710-0-0-9be15d62198fc9587981ada4302d551d
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE 13
 https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=46279e339c505e881a96c77afc76aa87&txTime=694ed2dd 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE 14
@@ -57,14 +57,12 @@ https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE BÚN CHẢ
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8 
-#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE CHIM NHỎ
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE HOA ĐÀO
 https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN",LIVE MÈO BÉO
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
-#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE 6 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE CHIM NHỎ 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8 
-#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE NHÀ ĐÀI QC
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE LÁ CHANH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", SPORTS TV 🇹🇷 
@@ -73,7 +71,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
 #EXTINF:-1 group-title="TOP TOP", ADAM 
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8 
-#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE 6 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", CHIM NHỎ 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8 
 #EXTINF:-1 group-title="TOP TOP", CHAIEN 
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8 
@@ -85,15 +83,18 @@ https://livestream.waebox.com/live/aklh087186/playlist.m3u8
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8 
 #EXTINF:-1 group-title="TOP TOP", CÒI XƯƠNG 
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8 
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE  THIEN DO 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", THIỆN ĐỖ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo.m3u8 
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE  ALEX 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", ALEX 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE  KHU MẤN LÁ CHANH 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHU MẤN
 https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
-https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/blv2_Output_Group_1_Output_0.m3u8
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE  KHOAI TÂY 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHOAI TÂY 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", MÈO BÉO 
+https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", CHIM NHỎ 
+https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE PHÁO
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE CỤ RÙA
@@ -102,9 +103,9 @@ https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE CHIM NHỎ
 https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8 
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ",LIVE MÈO BÉO
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE MÈO BÉO
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE 6 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", GIỜ VÀNG  
 https://cdn.giovangtv.club/1766909842_hd/1766909842_hd@720p.m3u8
 #EXTINF:-1 group-title="COLA", COCA 
 https://live5.msrktz.app/live/24561735.m3u8 
@@ -138,6 +139,8 @@ https://live5.msrktz.app/live/88508431.m3u8
 https://live5.msrktz.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="COLA", DR THANH 
 https://live5.msrktz.app/live/79665343.m3u8 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CỦ CẢI
+https://live.inplyr.com/room/360663.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LÃO LÂM 
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1766578709-0-0-7a9648df3689b3e47066b6a52f4e7f94 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A LONG 
@@ -250,12 +253,16 @@ https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74
 https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0 
 #EXTINF:-1 group-title="LƯƠNG SƠN", DƯƠNG QUÁ 
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981 
+#EXTINF:-1 group-title="LƯƠNG SƠN", SÓI
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1767191310-0-0-74a7df8ae9a9cf5dc3886a1feb5c00f3
 #EXTINF:-1 group-title="LƯƠNG SƠN", CONAN 
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33 
+#EXTINF:-1 group-title="LƯƠNG SƠN", LOGAN
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1767191430-0-0-255bc8157c9e2c84cf09a5c4cf673969
 #EXTINF:-1 group-title="LƯƠNG SƠN", SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="LƯƠNG SƠN", N.KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd  
+#EXTINF:-1 group-title="LƯƠNG SƠN", KING
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
 #EXTINF:-1 group-title="SPORT",Goal TV 
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8 
 #EXTINF:-1 group-title="SPORT", Billiards+ 
@@ -289,8 +296,6 @@ http://212.102.60.10/FOX_Sports_1/index.m3u8
 https://s5.phim1280.tv/20250513/XQBfOc33/index.m3u8  
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP",AVATAR 3: LỬA VÀ TRO TÀN 
 https://vip.opstream10.com/20251218/31897_14b14c86/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN 2: CHIẾN HỎA TÂY KỲ 
-https://vip.opstream90.com/20250807/10168_5d4a1850/3000k/hls/mixed.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 3: QUÁI THÚ VÔ HÌNH 3 
 https://s6.kkphimplayer6.com/20251115/h20c4erp/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 4: QUÁI THÚ VÔ HÌNH 4 
@@ -303,6 +308,8 @@ https://vip.opstream90.com/20251216/20281_a829b6de/3000k/hls/mixed.m3u8
 https://vip.opstream13.com/20240625/4458_e8f28385/3000k/hls/mixed.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: CON ĐƯỜNG TỬ THẦN 
 https://vip.opstream10.com/20220321/1242_d6b90bdb/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN 2: CHIẾN HỎA TÂY KỲ 
+https://vip.opstream90.com/20250807/10168_5d4a1850/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", BLACK PANTHER: CHIẾN BINH BÁO ĐEN 
 https://s6.kkphimplayer6.com/20251211/G08l6aGH/index.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", SÁT THỦ ANNA
@@ -311,4 +318,3 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-
