@@ -21,7 +21,7 @@ https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=51e3bc8cc41659351d5
 https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1767107070-0-0-6a0c03f847d30af39539a4894afb9070
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 11
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1767190170-0-0-4857da1af0fcfcb30db9bf2dc2b31537
-#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 12
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE 12 
 https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1766581949-0-0-a52a4765691ec42595f2a9bd7a98742a 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE 13
 https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=46279e339c505e881a96c77afc76aa87&txTime=694ed2dd 
@@ -318,3 +318,4 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
