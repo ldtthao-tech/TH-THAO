@@ -16,7 +16,6 @@ https://live.sethf7.com/live/67116834_ffc7d37fe1f095a2a6ae2d01ec19882b_autoChang
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 8
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e5f10d98b07253fa2237b4b95289d16b&txTime=69542e6e
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 9
-https://live.inplyr.com/room/168740.m3u8
 https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=51e3bc8cc41659351d5a75a028bffd44&txTime=69542f5e
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 10
 https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1767107070-0-0-6a0c03f847d30af39539a4894afb9070
@@ -50,7 +49,7 @@ https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fd
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1766755589-0-0-2d4004cdb62c30850681c94c129588c5 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE SOCOLIVE 2
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1936deb7723048c07f8e7241dc98a48a&txTime=694ed409 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE 3 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", SOCOLIVE 3 
 https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1766838570-0-0-8a012533f3061c7b6f1c8c47dcceedb3
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE PHÁO
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
@@ -311,3 +310,4 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
