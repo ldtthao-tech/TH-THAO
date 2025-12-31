@@ -24,4 +24,216 @@ https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1767107070-0-0-6a0c
 https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1767106890-0-0-e601806de03dc5bf1c9290f3465ce481
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 12
 https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1767107190-0-0-e26a6f5e7a35264ac2b712251d297874
-
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE 13
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=46279e339c505e881a96c77afc76aa87&txTime=694ed2dd 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE 14
+https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE 15
+https://live5.msrktz.app/live/24561735.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 16
+https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE  THIỆN ĐỖ 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE  ALEX 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE KHU MẤN LÁ CHANH 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE  KHOAI TÂY 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE SOCOLIVE 1
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1766755589-0-0-2d4004cdb62c30850681c94c129588c5 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE SOCOLIVE 2
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1936deb7723048c07f8e7241dc98a48a&txTime=694ed409 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE PHÁO
+https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE CỤ RÙA
+https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE BÚN CHẢ
+https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE CHIM NHỎ
+https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN",LIVE MÈO BÉO
+https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE 6 
+https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE NHÀ ĐÀI QC
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE LÁ CHANH
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", SPORTS TV 🇹🇷 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 
+#EXTINF:-1 group-title="TOP TOP ", BÚN 
+https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
+#EXTINF:-1 group-title="TOP TOP ", ADAM 
+https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE 6 
+https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8 
+#EXTINF:-1 group-title="TOP TOP ", CHAIEN 
+https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8 
+#EXTINF:-1 group-title="TOP TOP ", TÔM MÌ 
+https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
+#EXTINF:-1 group-title="TOP TOP ", BED 
+https://livestream.waebox.com/live/aklh087186/playlist.m3u8
+#EXTINF:-1 group-title="TOP TOP ", LIL SHADY 
+https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8 
+#EXTINF:-1 group-title="TOP TOP ", CÒI XƯƠNG 
+https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE  THIEN DO 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo.m3u8 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE  ALEX 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE  KHU MẤN LÁ CHANH 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE  KHOAI TÂY 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE PHÁO
+https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE CỤ RÙA
+https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE BÚN CHẢ
+https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE CHIM NHỎ
+https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ",LIVE MÈO BÉO
+https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE 6 
+https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8 
+#EXTINF:-1 group-title="COLA", COCA 
+https://live5.msrktz.app/live/24561735.m3u8 
+#EXTINF:-1 group-title="COLA", COMPACT 
+https://live5.msrktz.app/live/07808742.m3u8 
+#EXTINF:-1 group-title="COLA", ROCK STAR 
+https://live5.msrktz.app/live/82054853.m3u8 
+#EXTINF:-1 group-title="COLA", TEPPY 
+https://live5.msrktz.app/live/59444581.m3u8 
+#EXTINF:-1 group-title="COLA", Ô LONG 
+https://live5.msrktz.app/live/97312754.m3u8 
+#EXTINF:-1 group-title="COLA", 7UP 
+https://live5.msrktz.app/live/78905744.m3u8 
+#EXTINF:-1 group-title="COLA", SODA 
+https://live5.msrktz.app/live/02456966.m3u8
+#EXTINF:-1 group-title="COLA", STING 
+https://live5.msrktz.app/live/14707124.m3u8 
+#EXTINF:-1 group-title="COLA", MUONTAIN DEW 
+https://live5.msrktz.app/live/87547578.m3u8 
+#EXTINF:-1 group-title="COLA", WARRIOR 
+https://live5.msrktz.app/live/97885009.m3u8 
+#EXTINF:-1 group-title="COLA", MONSTER 
+https://live5.msrktz.app/live/75915087.m3u8 
+#EXTINF:-1 group-title="COLA", PEPSI 
+https://live5.msrktz.app/live/90865415.m3u8 
+#EXTINF:-1 group-title="COLA", SPRITE 
+https://live5.msrktz.app/live/90725470.m3u8 
+#EXTINF:-1 group-title="COLA", RỒNG ĐỎ 
+https://live5.msrktz.app/live/88508431.m3u8 
+#EXTINF:-1 group-title="COLA", C2 
+https://live5.msrktz.app/live/08552895.m3u8 
+#EXTINF:-1 group-title="COLA", DR THANH 
+https://live5.msrktz.app/live/79665343.m3u8 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LÃO LÂM 
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1766578709-0-0-7a9648df3689b3e47066b6a52f4e7f94 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A LONG 
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=469a4b4104d376d5fe5db7986aebe3a6&txTime=694dad31 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE NGỌA LONG 
+https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1766592089-0-0-7e97ef548bf98263ccf61bbf8db61416 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE RAMBO 
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=734d3bcc5e5b58d0041af1f711bdfb27&txTime=694c1615 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAP 
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=56378f8e07c671b125fa2f9b628777f5&txTime=694ea439 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE WUKONG 
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1766596470-0-0-c928c5a40df1cbae337164f81f98afd5 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SAO ĐỎ 
+https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=aa3feb42834840903ae5b1d87c3cbbd3&txTime=694c555d 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TẠ BIÊN GIỚI 
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=cc5159292314dbeaec35f876a18fa69e&txTime=694ea565 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAM MAO 
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=d548657c375ac859da56b910abb2d86e&txTime=694ea529
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TOMMY 
+https://live.inplyr.com/room/414317.m3u8 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE FIREMAN 
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1766581769-0-0-fa5f1c3cae23eea52841ff3cdad70e04 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE THỎ 
+https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1766581890-0-0-4519e47e80d2dc7190f6626ca6ed0824 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TYPN 
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1766581949-0-0-a52a4765691ec42595f2a9bd7a98742a 
+#EXTINF:-1 group-title="SOCOLIVE",SOCOLIVE KAI 
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1766582009-0-0-7a86ccd94a7e3c65ac1cc52ff5909c7f 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE NIBO 
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1766582069-0-0-82bfd2ddec023861a4679bfbbea213f7 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ENZO 
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1766582849-0-0-b324bd8c09b03f6f4197f5b4e5e866d8 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VODKA 
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1766582489-0-0-a956b90ff7871234bf07597604796bfc 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE THẠCH TÚ 
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b989ec9299293e9f678fa328f31e8ad5&txTime=694c1e85 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE MESSI 
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1766579309-0-0-37fad7ebaf099aaa6c5d31d96b0f3002 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XUÂN SON 
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=23722fa0925392ef5483a110dc353a66&txTime=694f1b49 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KEM 
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766582070-0-0-032c2833d11d0e3d594eb134d2df5694 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TOMIA 
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1766583329-0-0-c7cabd9cabda4eb17f6c80c672c84df9 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG CHẤT 
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-30985b 
+#EXTINF:-1 group-title="SPORT",Goal TV 
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8 
+#EXTINF:-1 group-title="SPORT", Billiards+ 
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
+#EXTINF:-1 group-title="SPORT", Kozoom TV 
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934f…453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8 
+#EXTINF:-1 group-title="SPORT", Tennis Channel 
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="SPORT", ACE TV 
+https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8 
+#EXTINF:-1 group-title="SPORT", TENNIS + 
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="SPORT",Fight TV 
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934f…453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8 
+#EXTINF:-1 group-title="SPORT",SPORTS TV 🇹🇷 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 
+#EXTINF:-1 group-title="SPORT",INFOSPORT 🇫🇷 
+http://212.102.60.80/Infosport/index.m3u8 
+#EXTINF:-1 group-title="SPORT",TELETRAK 🇨🇱 
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8 
+#EXTINF:-1 group-title="SPORT",Sony Ten 1 HD 🇮🇳 
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
+#EXTINF:-1 group-title="SPORT",RTA Sports HD Ban Vs AFG 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8 
+#EXTINF:-1 group-title="SPORT",Redbull TV https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 
+#EXTINF:-1 group-title="SPORT",BeiN Sports Extra 🇺🇸 
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8 
+#EXTINF:-1 group-title="SPORT",UFL FS 1 SPORT 🇺🇸 
+http://212.102.60.10/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP ", AVATAR 2: DÒNG CHẢY CỦA NƯỚC
+https://s5.phim1280.tv/20250513/XQBfOc33/index.m3u8  
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",AVATAR 3: LỬA VÀ TRO TÀN 
+https://vip.opstream10.com/20251218/31897_14b14c86/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN 2: CHIẾN HỎA TÂY KỲ 
+https://vip.opstream90.com/20250807/10168_5d4a1850/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 3: QUÁI THÚ VÔ HÌNH 3 
+https://s6.kkphimplayer6.com/20251115/h20c4erp/3500kb/hls/index.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 4: QUÁI THÚ VÔ HÌNH 4 
+https://s6.kkphimplayer6.com/20251115/aisNNBGH/3500kb/hls/index.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",SISU: GIÀ GÂN BÁO THÙ 
+https://vip.opstream15.com/20230517/39387_ed40f642/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",SISU: HÀNH TRÌNH BÁO THÙ
+https://vip.opstream90.com/20251216/20281_a829b6de/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: BÙNG CHÁY LỮA HẬN 
+https://vip.opstream13.com/20240625/4458_e8f28385/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: CON ĐƯỜNG TỬ THẦN 
+https://vip.opstream10.com/20220321/1242_d6b90bdb/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", BLACK PANTHER: CHIẾN BINH BÁO ĐEN 
+https://s6.kkphimplayer6.com/20251211/G08l6aGH/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", SÁT THỦ ANNA
+https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",THẾ GIỚI KHỦNG LONG: TÁI SINH 
+https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
+https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
