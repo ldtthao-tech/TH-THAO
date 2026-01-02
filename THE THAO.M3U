@@ -51,6 +51,8 @@ https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1766755589-0-0-2d4
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1936deb7723048c07f8e7241dc98a48a&txTime=694ed409 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", SOCOLIVE 3 
 https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1766838570-0-0-8a012533f3061c7b6f1c8c47dcceedb3
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE CHYM
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE PHÁO
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE GẠO NẾP
@@ -107,9 +109,7 @@ https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE BÚN CHẢ
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8 
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE CHIM NHỎ
-https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8 
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE MÈO BÉO
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE HẠT TIÊU
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", GIỜ VÀNG TUẤT
 https://cdn.giovangtv.club/1767152816_hd/1767152816_hd@720p.m3u8
@@ -119,6 +119,8 @@ https://cdn.giovangtv.club/1767152966_hd/1767152966_hd@720p.m3u8
 https://cdn.giovangtv.club/1766909842_hd/1766909842_hd@720p.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", 8LIVESPORT CÁ VIÊN
 https://tfs76gr3dgmtugrzdgpbqgr4ugmmcpf5gkmuuptose3dxc7u1ha5xpw.100ycdn.com/live.sladdogg.com/OBS/11/index.m3u8?wsSession=bd3f7bc7b7beedfdc5377f2b-176736090897424&wsIPSercert=b2db622d84175abb211c47009dffb1c0&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", 8LIVESPORT NGƯỜI KIẾN
+https://live.sladdogg.com/OBS/04/index.m3u8
 #EXTINF:-1 group-title="COLA", COCA 
 https://live5.msrktz.app/live/24561735.m3u8 
 #EXTINF:-1 group-title="COLA", COMPACT 
