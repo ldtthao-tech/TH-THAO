@@ -32,7 +32,7 @@ https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ",LIVE 16
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE  THIÊN ĐÔ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo.m3u8 
+https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE  ALEX 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG ĐÁ", LIVE KHU MẤN
@@ -83,8 +83,14 @@ https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
 #EXTINF:-1 group-title="TOP TOP", LIL SHADY 
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8 
-#EXTINF:-1 group-title="TOP TOP", CÒI XƯƠNG 
-https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8 
+#EXTINF:-1 group-title="TOP TOP", BÀNG CÒI XƯƠNG 
+https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
+#EXTINF:-1 group-title="TOP TOP", 8LIVESPORT CÁ VIÊN
+https://tfs76gr3dgmtugrzdgpbqgr4ugmmcpf5gkmuuptose3dxc7u1ha5xpw.100ycdn.com/live.sladdogg.com/OBS/11/index.m3u8?wsSession=bd3f7bc7b7beedfdc5377f2b-176736090897424&wsIPSercert=b2db622d84175abb211c47009dffb1c0&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="TOP TOP", 8LIVESPORT NGƯỜI KIẾN
+https://live.sladdogg.com/OBS/04/index.m3u8
+#EXTINF:-1 group-title="TOP TOP", 8LIVESPORT LANG CON
+https://live.sladdogg.com/OBS/10/index.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", SÚP LƯƠN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", VĂN MINH
@@ -92,7 +98,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", THIÊN ĐÔ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo.m3u8 
+https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", ALEX 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHU MẤN
@@ -113,14 +119,13 @@ https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", GIỜ VÀNG TUẤT
 https://cdn.giovangtv.club/1767152816_hd/1767152816_hd@720p.m3u8
+https://cdn.giovangtv.club/1767372071_hd/1767372071_hd@720p.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", GIỜ VÀNG TỴ
 https://cdn.giovangtv.club/1767152966_hd/1767152966_hd@720p.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", GIỜ VÀNG  
 https://cdn.giovangtv.club/1766909842_hd/1766909842_hd@720p.m3u8
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", 8LIVESPORT CÁ VIÊN
-https://tfs76gr3dgmtugrzdgpbqgr4ugmmcpf5gkmuuptose3dxc7u1ha5xpw.100ycdn.com/live.sladdogg.com/OBS/11/index.m3u8?wsSession=bd3f7bc7b7beedfdc5377f2b-176736090897424&wsIPSercert=b2db622d84175abb211c47009dffb1c0&wsiphost=local&wsBindIP=1
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", 8LIVESPORT NGƯỜI KIẾN
-https://live.sladdogg.com/OBS/04/index.m3u8
+https://cdn.giovangtv.club/1767205080_hd/1767205080_hd@720p.m3u8
+https://cdn.giovangtv.club/1767205040_hd/1767205040_hd@720p.m3u8
 #EXTINF:-1 group-title="COLA", COCA 
 https://live5.msrktz.app/live/24561735.m3u8 
 #EXTINF:-1 group-title="COLA", COMPACT 
