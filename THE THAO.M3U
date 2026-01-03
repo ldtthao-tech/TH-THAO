@@ -358,6 +358,7 @@ https://live.canthotv.vn/live/cs3/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL1 
 http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL2
+udp://225.1.1.154:30120
 http://xemtivi24.000webhostapp.com/iptv-thvli.php?id=vinhlong2hd
 https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Njc0MjA0NjMsInVyaSI6IlwvaHR2Y1wvdGh2bDJoZC43MjBwLm5pbWJsZS5hZG0udG1zIiwiaXAiOiIifQ.IDuxS-rrZ2pfBPGKkEAHMRw1Nb3XGl4p9mjy4LC2U1I-/htvc/thvl2hd.720p.nimble.adm.tms/chunks.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL3
@@ -380,7 +381,8 @@ https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV KEYS
 https://liveh12byt.vtvprime.vn/hls/HTVKey/03.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV2 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV2
+udp://@225.1.1.193:30120
 http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Njc0MjUzMzUsInVyaSI6IlwvaHR2Y1wvaHR2Mi43MjBwLm5pbWJsZS5hZG0udG1zIiwiaXAiOiIifQ.cjQQgkiV41RKog7EdGN0G6JoBZrnZ_2EClWgrtXHwdU-/htvc/htv2.720p.nimble.adm.tms/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV3 
@@ -407,6 +409,10 @@ https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8 
+udp://@225.1.2.13:30120
+udp://@225.1.2.247:30120
+udp://@225.1.1.128:30120
+udp://@225.1.2.245:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5 Tay Nam Bo 
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/04.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5 Tay Nguyen 
@@ -420,6 +426,7 @@ https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON Vie Drama 
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Khánh Hòa TV
+udp://225.1.1.133:30120
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=khanhhoa 
 https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Njc0MjA1OTgsInVyaSI6IlwvaHR2Y1wva2hhbmhob2EuNDgwcC5uYi5hZG0udG1zIiwiaXAiOiIifQ.E8N1iJjXLg8pQZmlfSUY8XNu5CiVzliDbbu0PgtCCvY-/htvc/khanhhoa.480p.nb.adm.tms/playlist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐAK LAK 
@@ -514,3 +521,49 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="TEST", TNT Sport 4
 https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv1/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv2/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/OHetPmW.png",SCTV3
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv3/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/q4GDdbO.png",SCTV4
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv4/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/OTwJmmm.png",SCTV5
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv5/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv6/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv7/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv8/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv9/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/GHcVQkB.png",SCTV10
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv10/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv11/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/didV8dZ.png",SCTV12
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv12/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv13/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv14/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
+https://z215ymcm4tliv.vcdn.cloud/s9/hls/sctv15/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv16/index.m3u8
+#EXTINF:-1 group-title="SCTV"  tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv17/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv18/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/GKqfMnC.png",SCTV19
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv19/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv20/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv21/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv22/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim TH
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctvphimtonghop/index.m3u8
