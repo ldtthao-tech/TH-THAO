@@ -55,12 +55,10 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", THIÊN ĐÔ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
-https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", ALEX 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHOAI TÂY 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", MÈO BÉO 
@@ -162,13 +160,17 @@ https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766594490-0-0-31d9
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XO COCA 
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VOI 
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHAN SENA 
-https://live.inplyr.com/room/515530.m3u8 
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A BỆU 
 https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1766838570-0-0-8a012533f3061c7b6f1c8c47dcceedb3 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX 
 https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766751689-0-0-c31bf30b3d89d73b7206d952ced60f29 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHAN SENA 
+https://live.inplyr.com/room/515530.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE HENDRY
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KING
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
 #EXTINF:-1 group-title="LƯƠNG SƠN", YẾN THANH 
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582 
 #EXTINF:-1 group-title="LƯƠNG SƠN", THỜI THIÊN 
@@ -229,9 +231,18 @@ https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e5
 https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1767191430-0-0-255bc8157c9e2c84cf09a5c4cf673969
 #EXTINF:-1 group-title="LƯƠNG SƠN", SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="LƯƠNG SƠN", KING
+#EXTINF:-1 group-title="BÓNG RỖ", BLV KING
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
-#EXTINF:-1 group-title="UHD 4K", SKY SPORT 1NZ
+#EXTINF:-1 group-title="BÓNG RỖ", BLV CHAN SENA 
+https://live.inplyr.com/room/515530.m3u8
+#EXTINF:-1 group-title="BÓNG RỖ", BLV HENDRY
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
+#EXTINF:-1 group-title="BÓNG RỖ", BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="BÓNG RỖ", BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="BÓNG RỖ", BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 group-title="UHD 4K", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="UHD 4K", Sky Sports 3 NZ
