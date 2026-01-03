@@ -15,7 +15,7 @@ https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8 
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE CHIM NHỎ 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8 
-#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE LÁ CHANH
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE ALEX
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
@@ -23,27 +23,27 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", SPORTS TV 🇹🇷 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 
-#EXTINF:-1 group-title="BLV TOPTOP", BÚN 
+#EXTINF:-1 group-title="BLV TOPTOP", BLV BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
-#EXTINF:-1 group-title="BLV TOPTOP", ADAM 
+#EXTINF:-1 group-title="BLV TOPTOP", BLV ADAM 
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 group-title="BLV TOPTOP", CHAIEN 
+#EXTINF:-1 group-title="BLV TOPTOP", BLV CHAIEN 
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8 
-#EXTINF:-1 group-title="BLV TOPTOP", TÔM MÌ 
+#EXTINF:-1 group-title="BLV TOPTOP", BLV TÔM MÌ 
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 group-title="BLV TOPTOP", BED 
+#EXTINF:-1 group-title="BLV TOPTOP", BLV BED 
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 group-title="BLV TOPTOP", LIL SHADY 
+#EXTINF:-1 group-title="BLV TOPTOP", BLV LIL SHADY 
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8 
-#EXTINF:-1 group-title="BLV TOPTOP", BÀNG CÒI XƯƠNG 
+#EXTINF:-1 group-title="BLV TOPTOP", BLV BÀNG CÒI XƯƠNG 
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
-#EXTINF:-1 group-title="BLV TOPTOP", 8LIVESPORT CÁ VIÊN
-https://tfs76gr3dgmtugrzdgpbqgr4ugmmcpf5gkmuuptose3dxc7u1ha5xpw.100ycdn.com/live.sladdogg.com/OBS/11/index.m3u8?wsSession=bd3f7bc7b7beedfdc5377f2b-176736090897424&wsIPSercert=b2db622d84175abb211c47009dffb1c0&wsiphost=local&wsBindIP=1
-#EXTINF:-1 group-title="BLV TOPTOP", 8LIVESPORT NGƯỜI KIẾN
+#EXTINF:-1 group-title="BLV TOPTOP", BLV CÁ VIÊN
+https://live.sladdogg.com/OBS/11/index.m3u8
+#EXTINF:-1 group-title="BLV TOPTOP", BLV NGƯỜI KIẾN
 https://live.sladdogg.com/OBS/04/index.m3u8
-#EXTINF:-1 group-title="BLV TOPTOP", 8LIVESPORT LÀNG CỒN
+#EXTINF:-1 group-title="BLV TOPTOP", BLV LÀNG CỒN
 https://live.sladdogg.com/OBS/10/index.m3u8 
-#EXTINF:-1 group-title="BLV TOPTOP", 8LIVESPORT ZORRO
+#EXTINF:-1 group-title="BLV TOPTOP", BLV ZORRO
 https://live.sladdogg.com/OBS/07/index.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", SÚP LƯƠN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
@@ -54,10 +54,12 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", CỤ GIÀ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", THIÊN ĐÔ
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
 https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", ALEX 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHU MẤN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHOAI TÂY 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
