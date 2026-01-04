@@ -18,7 +18,7 @@ https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE ALEX
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", CHIM NHỎ 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", SPORTS TV 🇹🇷 
@@ -45,21 +45,33 @@ https://live.sladdogg.com/OBS/04/index.m3u8
 https://live.sladdogg.com/OBS/10/index.m3u8 
 #EXTINF:-1 group-title="BLV TOPTOP", BLV ZORRO
 https://live.sladdogg.com/OBS/07/index.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV NAM TÀO
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO ZAI
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO XANH
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV BẮC ĐẨU
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_bacdau/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO MÈO
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", SÚP LƯƠN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", VĂN MINH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", CHYM
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", CỤ GIÀ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", THIÊN ĐÔ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", ALEX 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", ALEX
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHOAI TÂY 
+#EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHOAI TÂY
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", MÈO BÉO 
 https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8
