@@ -5,10 +5,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE BÚN CHẢ
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8
+https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE HẠT TIÊU
-https://tfsb0grauqmtofaauomtugoszy4uxphad1ctif31se35fpiozoa5rpazg6hu8.100ycdn.com/pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8?wsSession=edec3f3cb37bfeaeddcc034e-176769387196747&wsIPSercert=2214c038cf08eb75dcda982bfe8d83a7&wsiphost=local&wsBindIP=1
-https://tfsb0grauqmtofaauomtugoszy4uxphad1ctif31se35fpiozoa5rpazg6hu8.100ycdn.com/pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8?wsSession=edec3f3cb37bfeaeddcc034e-176769387196747&wsIPSercert=2214c038cf08eb75dcda982bfe8d83a7&wsiphost=local&wsBindIP=1
-https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", LIVE MÈO BÉO
@@ -82,7 +80,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHU MẤN
-https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", KHOAI TÂY
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
@@ -95,9 +92,9 @@ https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE GẠO NẾP
 https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE BÚN CHẢ
+https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8 
 #EXTINF:-1 group-title="ALEX vs BÚN CHẢ", LIVE HẠT TIÊU
-https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
 #EXTINF:-1 group-title="COLA", COCA 
 https://live5.msrktz.app/live/24561735.m3u8 
@@ -263,16 +260,20 @@ https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca
 https://live.inplyr.com/room/515530.m3u8
 #EXTINF:-1 group-title="BÓNG RỖ", BLV HENDRY
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
+#EXTINF:-1 group-title="BÓNG RỖ", BLV DUSTIN
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=74243ffff4cff610ff1e5deb07c7623c&txTime=695b6ab2
 #EXTINF:-1 group-title="BÓNG RỖ", BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="BÓNG RỖ", BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="BÓNG RỖ", BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 2
+https://7pal.short.gy/skyspt3nz
 #EXTINF:-1 group-title="UHD 4K", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="UHD 4K", Sky Sports 3 NZ
-https://7pal.short.gy/skyspt3nz
 #EXTINF:-1 group-title="UHD 4K", Sky Sports 4 NZ
 https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 group-title="UHD 4K" tvg-id="sky-sports-action", Sky Sports Action
@@ -518,6 +519,3 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="TEST", TNT Sport 4
 https://7pal.short.gy/tntspts4
-
-
-
