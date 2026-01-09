@@ -24,8 +24,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", CHIM NHỎ 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8
-#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", SPORTS TV 🇹🇷 
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 
+#EXTINF:-1 group-title="TRỰC TIẾP BÓNG CHUYỀN", UHD 4KS TV 🇹🇷 
+http://live.UHD 4Kstv.com.tr/hls/low/UHD 4Kstv_fhd/index.m3u8 
 #EXTINF:-1 group-title="BLV TOPTOP", BLV BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
 #EXTINF:-1 group-title="BLV TOPTOP", BLV ADAM 
@@ -274,323 +274,104 @@ https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 2
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 group-title="UHD 4K", Sky Sports 1 NZ
+#EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 3
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="UHD 4K", Sky Sports 4 NZ
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 group-title="UHD 4K", Sky Sports 2 NZ 
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 group-title="UHD 4K" tvg-id="sky-sports-action", Sky Sports Action
-https://7pal.short.gy/ssportsat
-#EXTINF:-1 group-title="UHD 4K", Sky Sports Golf
-https://7pal.short.gy/ssportsgf
-#EXTINF:-1 group-title="UHD 4K", Sky Sports FORMULA ONE
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 group-title="UHD 4K", Sky Sports F1 UHD
-https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 group-title="UHD 4K", Sky Sports Football
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="UHD 4K", Sky Sports Main Event
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Main Event
 https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="UHD 4K", Sky Sports News
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="UHD 4K", Sky Sports Premier League
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 group-title="UHD 4K", TNT Sport 1
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks 4 NZ
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="UHD 4K" tvg-id="sky-UHD 4Ks-action", Sky UHD 4Ks Action
+https://7pal.short.gy/sUHD 4Ksat
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Golf
+https://7pal.short.gy/sUHD 4Ksgf
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks FORMULA ONE
+https://7pal.short.gy/sUHD 4Ksf1
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Football
+https://7pal.short.gy/sUHD 4Ksfb
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Premier League
+https://7pal.short.gy/sUHD 4Kspl
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks News
+https://7pal.short.gy/sUHD 4Ksnw
+#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 1
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="UHD 4K", TNT Sport 3
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="UHD 4K", TNT Sport 2
+#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 2
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="UHD 4K", TNT Sport 4
+#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 4
 https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="SPORT", HTV THỂ THAO 
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",Goal TV 
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8 
-#EXTINF:-1 group-title="SPORT", Billiards+ 
-https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
-#EXTINF:-1 group-title="SPORT", Kozoom TV 
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934f…453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8 
-#EXTINF:-1 group-title="SPORT", Tennis Channel 
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="SPORT", ACE TV 
-https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8 
-#EXTINF:-1 group-title="SPORT", TENNIS + 
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="SPORT",Fight TV 
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934f…453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8 
-#EXTINF:-1 group-title="SPORT",SPORTS TV 🇹🇷 
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 
-#EXTINF:-1 group-title="SPORT",INFOSPORT 🇫🇷 
-http://212.102.60.80/Infosport/index.m3u8 
-#EXTINF:-1 group-title="SPORT",TELETRAK 🇨🇱 
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8 
-#EXTINF:-1 group-title="SPORT",Sony Ten 1 HD 🇮🇳 
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
-#EXTINF:-1 group-title="SPORT",RTA Sports HD Ban Vs AFG 
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8 
-#EXTINF:-1 group-title="SPORT",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 
-#EXTINF:-1 group-title="SPORT",BeiN Sports Extra 🇺🇸 
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8 
-#EXTINF:-1 group-title="SPORT",UFL FS 1 SPORT 🇺🇸 
-http://212.102.60.10/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="SPORT", REDBULL TV
+#EXTINF:-1 group-title="UHD 4K", REDBULL TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/vn/en/playlist.m3u8
-#EXTINF:-1 group-title="SPORT", BEIN XTRA
+#EXTINF:-1 group-title="UHD 4K",BeiN UHD 4Ks Extra 🇺🇸 
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="UHD 4K", BEIN XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT", BEIN XTRA ESP
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT", UFC LIVE
+#EXTINF:-1 group-title="UHD 4K",Goal TV 
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8 
+#EXTINF:-1 group-title="UHD 4K", Billiards+ 
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
+#EXTINF:-1 group-title="UHD 4K", Kozoom TV 
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934f…453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8 
+#EXTINF:-1 group-title="UHD 4K", Tennis Channel 
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="UHD 4K", ACE TV 
+https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8 
+#EXTINF:-1 group-title="UHD 4K", TENNIS + 
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="UHD 4K",UHD 4KS TV 🇹🇷 
+http://live.UHD 4Kstv.com.tr/hls/low/UHD 4Kstv_fhd/index.m3u8 
+#EXTINF:-1 group-title="UHD 4K",INFOUHD 4K 🇫🇷 
+http://212.102.60.80/InfoUHD 4K/index.m3u8 
+#EXTINF:-1 group-title="UHD 4K",TELETRAK 🇨🇱 
+http://unlimited6-cl.dps.live/UHD 4Kinghd/UHD 4Kinghd.smil/playlist.m3u8 
+#EXTINF:-1 group-title="UHD 4K",Sony Ten 1 HD 🇮🇳 
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
+#EXTINF:-1 group-title="UHD 4K",RTA UHD 4Ks HD Ban Vs AFG 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8 
+#EXTINF:-1 group-title="UHD 4K",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="UHD 4K", UFC LIVE
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 group-title="SPORT", MMA
+#EXTINF:-1 group-title="UHD 4K", MMA
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
-#EXTINF:-1 group-title="SPORT", FIGHTING
+#EXTINF:-1 group-title="UHD 4K", FIGHTING
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
-#EXTINF:-1 group-title="SPORT", FITE 247
+#EXTINF:-1 group-title="UHD 4K", FITE 247
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
-#EXTINF:-1 group-title="SPORT", COMBAT
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="UHD 4K", COMBAT
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
-#EXTINF:-1 group-title="SPORT", IMPACT Wrestling 
+#EXTINF:-1 group-title="UHD 4K", IMPACT Wrestling 
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="SPORT", Fight Network
+#EXTINF:-1 group-title="UHD 4K", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="SPORT", Boxing TV
+#EXTINF:-1 group-title="UHD 4K", Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-#EXTINF:-1 group-title="SPORT", Stadium
+#EXTINF:-1 group-title="UHD 4K", Stadium
 https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
-#EXTINF:-1 group-title="SPORT", PFL MMA
+#EXTINF:-1 group-title="UHD 4K", PFL MMA
 https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
-#EXTINF:-1 group-title="SPORT", GLORY
+#EXTINF:-1 group-title="UHD 4K", GLORY
 https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_channelId=99991278
-#EXTINF:-1 group-title="SPORT", TNA Wrestling Channel
+#EXTINF:-1 group-title="UHD 4K", TNA Wrestling Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
-#EXTINF:-1 group-title="SPORT", UFC
+#EXTINF:-1 group-title="UHD 4K", UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
-#EXTINF:-1 group-title="SPORT", United Fight Alliance
+#EXTINF:-1 group-title="UHD 4K", United Fight Alliance
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-#EXTINF:-1 group-title="SPORT", MMA Junkie
+#EXTINF:-1 group-title="UHD 4K", MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", AVATAR 2: DÒNG CHẢY CỦA NƯỚC
-https://s5.phim1280.tv/20250513/XQBfOc33/index.m3u8  
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",AVATAR 3: LỬA VÀ TRO TÀN 
-https://vip.opstream10.com/20251218/31897_14b14c86/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 3: QUÁI THÚ VÔ HÌNH 3 
-https://s6.kkphimplayer6.com/20251115/h20c4erp/3500kb/hls/index.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 4: QUÁI THÚ VÔ HÌNH 4 
-https://s6.kkphimplayer6.com/20251115/aisNNBGH/3500kb/hls/index.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",SISU: GIÀ GÂN BÁO THÙ 
-https://vip.opstream15.com/20230517/39387_ed40f642/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",SISU: HÀNH TRÌNH BÁO THÙ
-https://vip.opstream90.com/20251216/20281_a829b6de/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: BÙNG CHÁY LỮA HẬN 
-https://vip.opstream13.com/20240625/4458_e8f28385/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: CON ĐƯỜNG TỬ THẦN 
-https://vip.opstream10.com/20220321/1242_d6b90bdb/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN 2: CHIẾN HỎA TÂY KỲ 
-https://vip.opstream90.com/20250807/10168_5d4a1850/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", BLACK PANTHER: CHIẾN BINH BÁO ĐEN 
-https://s6.kkphimplayer6.com/20251211/G08l6aGH/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", SÁT THỦ ANNA
-https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",THẾ GIỚI KHỦNG LONG: TÁI SINH 
-https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
-https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CÀ MAU TV 
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV1 
-https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV2 
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV3 
-https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 1 
-https://live.canthotv.vn/live/tv/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 2 
-https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 3 
-https://live.canthotv.vn/live/cs3/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL1 
-http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL3
-https://liveh34.vtvprime.vn/hls/VINHLONG3/03.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL4 
-https://liveh34.vtvprime.vn/hls/VINHLONG4/03.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
-https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 2 
-https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1368216734.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TÂY NINH TV 
-https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 1
-https://htvc271120.cdn.vnns.io/1232f84ff119e1c27898eb5ac4875fc51768024812/dongnai1.adm.720p.tms/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 2
-http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 3
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV1 
-http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV2
-https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
-EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV3 
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV1 
-https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
-https://vc.101vn.com/htv/htvcmb.php?id=2631
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV2
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV3 
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV KEYS
-https://liveh12byt.vtvprime.vn/hls/HTVKey/03.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV7
-https://liveh12byt.vtvprime.vn/hls/HTV7HD/03.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV9 
-http://125hvt.ddns.net:21585/htv9/index.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THỂ THAO 
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV PHIM
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THUẦN VIỆT
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV DU LỊCH CUỘC SỐNG
-https://liveh12byt.vtvprime.vn/hls/HTVCDLCS/03.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV CA NHẠC
-https://liveh12byt.vtvprime.vn/hls/HTVCCANHAC/04.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV GIA ĐÌNH
-https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV PHỤ NỮ
-https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THUẦN VIỆT
-https://htvc271120.cdn.vnns.io/315bfd755b626ca5e8fa8adfe83ac5751768025117/thuanviet.cat.720p.adm/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV2
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV3
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV4
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV CẦN THƠ
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NAM BỘ
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NGUYÊN
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV7
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
-https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV 
-https://ott1.nethubtv.vn/live/antv/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QPVN 
-https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON Vie Drama 
-http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV
-https://livektv2.baokhanhhoa.vn/hls/ktv.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐAK LAK 
-https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", GIA LAI TV 
-https://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NGÃI TV
-https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV1 
-https://cmcdp3.vtvdigital.vn/hls/DANANGTV/03.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV2 
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HUẾ TV 
-https://live.huetv.com.vn/TRT-Online/chunklist.m3u8  
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUÃNG TRỊ TV 
-https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ TĨNH TV
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", NGHỆ AN TV 
-https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THANH HÓA TV 
-https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/03.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", NINH BÌNH TV 
-https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV3
-https://cmcdp2.vtvdigital.vn/hls/HAIDUONGTV/03.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV
-https://live-hq.evgcdn.net/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV1
-https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV2
-https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV3
-#https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HƯNG YÊN TV 
-https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/01.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", BẮC NINH TV 
-https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/03.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NINH TV1 
-https://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/03.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NINH TV3 
-https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ NỘI TV1 
-https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ NỘI TV2 
-https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", PHÚ THỌ TV 
-https://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/03.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THÁI NGUYÊN TV 
-https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LẠNG SƠN TV 
-https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CAO BẰNG TV 
-http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TUYÊN QUANG TV 
-https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8#t=0.001
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÀO CAI TV
-https://live.baolaocai.vn/channel2/stream.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SƠN LA TV 
-https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐIỆN BIÊN TV 
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LAI CHÂU TV 
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni 
-#EXTINF:-1 group-title="QUỐC TẾ", KIX TV
+#EXTINF:-1 group-title="UHD 4K", KIX TV
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", DAVINCI TV
+#EXTINF:-1 group-title="UHD 4K", DAVINCI TV
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", HISTORY
+#EXTINF:-1 group-title="UHD 4K", HISTORY
 https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", TV5 MONDE
+#EXTINF:-1 group-title="UHD 4K", TV5 MONDE
 https://liveh12byt.vtvprime.vn/hls/TV5/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", SPORT 1
-https://ctrl.laotv.la/live/K+Sport1/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", SPORT2
-https://ctrl.laotv.la/live/K+Sport2/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", TRUE PREMIER FOOTBALL 1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", TRUE PREMIER FOOTBALL 2
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", TRUE SPORT HD1
-https://edge1.laotv.la/live/TrueSport6/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", TRUE SPORT HD2
-https://edge1.laotv.la/live/TrueSport2/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", TRUE SPORT HD3
-https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", TRUE SPORT HD7
-https://edge2.laotv.la/live/THD7/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", BEIN SPORT 1
-https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", BEIN SPORT 2
-https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/v0/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", XÔI LẠC 1
-https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001711808292-0-0-8eb3867438e894b1277fc77096da3d47
-#EXTINF:-1 group-title="QUỐC TẾ", XÔI LẠC 2
-https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001710257436-0-0-c450a04c36f3725570ebbafd72c94aee
 #EXTINF:-1 group-title="VTVCAB", ON VIỆT GIẢI TRÍ
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 group-title="VTVCAB", ON PHIM VIỆT
@@ -659,3 +440,179 @@ https://liveh34.seenow.vn/hls/SCTV21/index.m3u8
 https://liveh34.seenow.vn/hls/SCTV22/index.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CÀ MAU TV 
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV1 
+https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV2 
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV3 
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 1 
+https://live.canthotv.vn/live/tv/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 2 
+https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 3 
+https://live.canthotv.vn/live/cs3/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL1 
+http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL2
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL3
+https://liveh34.vtvprime.vn/hls/VINHLONG3/03.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL4 
+https://liveh34.vtvprime.vn/hls/VINHLONG4/03.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL5
+https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
+https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 2 
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1368216734.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TÂY NINH TV 
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 1
+https://htvc271120.cdn.vnns.io/1232f84ff119e1c27898eb5ac4875fc51768024812/dongnai1.adm.720p.tms/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV1 
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV2
+https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
+EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV3 
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV1 
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV2
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV3 
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV KEYS
+https://liveh12byt.vtvprime.vn/hls/HTVKey/03.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV7
+https://liveh12byt.vtvprime.vn/hls/HTV7HD/03.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV9 
+http://125hvt.ddns.net:21585/htv9/index.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THỂ THAO 
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV PHIM
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THUẦN VIỆT
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV DU LỊCH CUỘC SỐNG
+https://liveh12byt.vtvprime.vn/hls/HTVCDLCS/03.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV CA NHẠC
+https://liveh12byt.vtvprime.vn/hls/HTVCCANHAC/04.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV GIA ĐÌNH
+https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV PHỤ NỮ
+https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV CẦN THƠ
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NAM BỘ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NGUYÊN
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV 
+https://ott1.nethubtv.vn/live/antv/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QPVN 
+https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV
+https://livektv2.baokhanhhoa.vn/hls/ktv.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐAK LAK 
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", GIA LAI TV 
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NGÃI TV
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV1 
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV2 
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HUẾ TV 
+https://live.huetv.com.vn/TRT-Online/chunklist.m3u8  
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUÃNG TRỊ TV 
+https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ TĨNH TV
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", NGHỆ AN TV 
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THANH HÓA TV
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", NINH BÌNH TV 
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV1
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV3
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HƯNG YÊN TV 
+https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", BẮC NINH TV 
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NINH TV1 
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NINH TV3 
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ NỘI TV1 
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ NỘI TV2 
+https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", PHÚ THỌ TV 
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THÁI NGUYÊN TV 
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LẠNG SƠN TV 
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", CAO BẰNG TV 
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TUYÊN QUANG TV 
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8#t=0.001
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÀO CAI TV
+https://live.baolaocai.vn/channel2/stream.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SƠN LA TV 
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐIỆN BIÊN TV 
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LAI CHÂU TV 
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", AVATAR 2: DÒNG CHẢY CỦA NƯỚC
+https://s5.phim1280.tv/20250513/XQBfOc33/index.m3u8  
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",AVATAR 3: LỬA VÀ TRO TÀN 
+https://vip.opstream10.com/20251218/31897_14b14c86/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 3: QUÁI THÚ VÔ HÌNH 3 
+https://s6.kkphimplayer6.com/20251115/h20c4erp/3500kb/hls/index.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 4: QUÁI THÚ VÔ HÌNH 4 
+https://s6.kkphimplayer6.com/20251115/aisNNBGH/3500kb/hls/index.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",SISU: GIÀ GÂN BÁO THÙ 
+https://vip.opstream15.com/20230517/39387_ed40f642/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",SISU: HÀNH TRÌNH BÁO THÙ
+https://vip.opstream90.com/20251216/20281_a829b6de/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: BÙNG CHÁY LỮA HẬN 
+https://vip.opstream13.com/20240625/4458_e8f28385/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: CON ĐƯỜNG TỬ THẦN 
+https://vip.opstream10.com/20220321/1242_d6b90bdb/3000k/hls/mixed.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN 2: CHIẾN HỎA TÂY KỲ 
+https://vip.opstream90.com/20250807/10168_5d4a1850/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", BLACK PANTHER: CHIẾN BINH BÁO ĐEN 
+https://s6.kkphimplayer6.com/20251211/G08l6aGH/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", SÁT THỦ ANNA
+https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",THẾ GIỚI KHỦNG LONG: TÁI SINH 
+https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
+https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
