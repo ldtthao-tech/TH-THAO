@@ -25,7 +25,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE BÚN CHẢ
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE HẠT TIÊU
+#EXTINF:-1 group-title="VOLLEYBALL", LIVE HẠT TIÊU khan dai a 
+https://stm02bc48435558.stream.hdplaylink.com/live3/c915bc6b49a5445f923b55e18e5c8607_720/playlist.m3u8
 https://live.alilicloud.com/live/e9c7263be6f5a0e8d991df2eef5ada8f/playlist.m3u8
 https://live.alilicloud.com/live/e9c7263be6f5a0e8d991df2eef5ada8f/playlist.m3u8
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
@@ -38,7 +39,7 @@ https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE PHÁO
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE GẠO NẾP
-https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8 
+https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb…KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://hoadaotv.org
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE CHIM NHỎ 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8 
 #EXTINF:-1 group-title="VOLLEYBALL", CHIM NHỎ 
@@ -620,5 +621,6 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
 
 
