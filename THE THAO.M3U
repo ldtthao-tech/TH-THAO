@@ -24,8 +24,13 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE ALEX
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE BÚN CHẢ
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2770000,BANDWIDTH=3450000,SUBTITLES="subs",RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d4028,mp4a.40.2"
+https://mhd128.iptv2022.com/p/W90kYZbZvNs8k5e-3hQEkw,1767726764/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/YOz_52LGbFHxumjSj6NQ-A,1767826268/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE HẠT TIÊU khan dai a 
+#EXTINF:-1 group-title="VOLLEYBALL", LIVE HẠT TIÊU khan dai a
+https://mhd128.iptv2022.com/p/W90kYZbZvNs8k5e-3hQEkw,1767726764/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/YOz_52LGbFHxumjSj6NQ-A,1767826268/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
 https://stm02bc48435558.stream.hdplaylink.com/live3/c915bc6b49a5445f923b55e18e5c8607_720/playlist.m3u8
 https://live.alilicloud.com/live/e9c7263be6f5a0e8d991df2eef5ada8f/playlist.m3u8
 https://live.alilicloud.com/live/e9c7263be6f5a0e8d991df2eef5ada8f/playlist.m3u8
@@ -39,7 +44,7 @@ https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE PHÁO
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE GẠO NẾP
-https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb…KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://hoadaotv.org
+https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|Referer=https://hoadaotv.org/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb…KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE CHIM NHỎ 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8 
 #EXTINF:-1 group-title="VOLLEYBALL", CHIM NHỎ 
@@ -309,8 +314,8 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 4
 https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="UHD 4K", REDBULL TV
-https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/vn/en/playlist.m3u8
+#EXTINF:-1 group-title="UHD 4K", DAZN TV
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="UHD 4K",BeiN UHD 4Ks Extra 🇺🇸 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="UHD 4K", BEIN XTRA
@@ -621,6 +626,27 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-
-
-
+#EXTINF:-1,BG Max Sport 2 HD Backup NO_1
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/73233
+#EXTINF:-1,BGAR Bahrain Sport 1 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/74086
+#EXTINF:-1,Palestine Sport
+http://appfactory.group:8080/5fMUiyxc2k/PaemWJL9gE/503
+#EXTINF:-1,AR Bein Sport 3 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/59736?
+#EXTINF:-1,Jordan Sport
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/151319.ts
+#EXTINF:-1,GOLF Backup NO_1
+http://pro.xviptv.com:25443/live/6532287675/4648388393/9270.ts
+#EXTINF:-1,Polsat Sport Premium 2 [PL]
+http://saveukraine.only4.tv/6411/video.m3u8?token=saveUkrain&checkedby
+#EXTINF:-1,USA CBS Sports Network
+http://2hubs.ddns.net:25461/BabNour/telegrramm/57209
+#EXTINF:-1,PL NSPORT HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61436
+#EXTINF:-1,RO Digi Sport 2
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61289
+#EXTINF:-1,S Sport 2
+http://pro.xviptv.com:25443/live/6532287675/4648388393/149784.ts?
+#EXTINF:-1,SNL ZIGGO SPORT GOLF Backup NO_81
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/73729?
