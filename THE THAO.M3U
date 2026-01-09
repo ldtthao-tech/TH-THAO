@@ -5,8 +5,8 @@ https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca
 https://live.inplyr.com/room/515530.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV HENDRY
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
-#EXTINF:-1 group-title="BASKETBALL", BLV DUSTIN
-https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=74243ffff4cff610ff1e5deb07c7623c&txTime=695b6ab2
+#EXTINF:-1 group-title="BASKETBALL", BLV HUNTER
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767947011-0-0-ffde739c49aeaa1993c3158a2b3940e8
 #EXTINF:-1 group-title="BASKETBALL", BLV BRIAN
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
 #EXTINF:-1 group-title="BASKETBALL", BLV YẾN THANH
@@ -614,3 +614,4 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
