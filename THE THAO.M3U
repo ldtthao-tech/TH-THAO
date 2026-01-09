@@ -22,7 +22,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE ALEX
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", THIÊN ĐÔ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
@@ -32,8 +31,10 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", SÚP LƯƠN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", UHD 4KS TV 🇹🇷 
-http://live.UHD 4Kstv.com.tr/hls/low/UHD 4Kstv_fhd/index.m3u8 
+#EXTINF:-1 group-title="VOLLEYBALL", LIVE QUÊ CHOA 1
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", LIVE QUÊ CHOA 2
+https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
 #EXTINF:-1 group-title="BLV TOPTOP", BLV BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
 #EXTINF:-1 group-title="BLV TOPTOP", BLV ADAM 
@@ -76,38 +77,40 @@ https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO Y TẾ
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
-#EXTINF:-1 group-title="COLA", COCA 
+#EXTINF:-1 group-title="COLA TV", COCA 
 https://live5.msrktz.app/live/24561735.m3u8 
-#EXTINF:-1 group-title="COLA", COMPACT 
+#EXTINF:-1 group-title="COLA TV", COMPACT 
 https://live5.msrktz.app/live/07808742.m3u8 
-#EXTINF:-1 group-title="COLA", ROCK STAR 
+#EXTINF:-1 group-title="COLA TV", ROCK STAR 
 https://live5.msrktz.app/live/82054853.m3u8 
-#EXTINF:-1 group-title="COLA", TEPPY 
+#EXTINF:-1 group-title="COLA TV", TEPPY 
 https://live5.msrktz.app/live/59444581.m3u8 
-#EXTINF:-1 group-title="COLA", Ô LONG 
+#EXTINF:-1 group-title="COLA TV", Ô LONG 
 https://live5.msrktz.app/live/97312754.m3u8 
-#EXTINF:-1 group-title="COLA", 7UP 
+#EXTINF:-1 group-title="COLA TV", 7UP 
 https://live5.msrktz.app/live/78905744.m3u8 
-#EXTINF:-1 group-title="COLA", SODA 
+#EXTINF:-1 group-title="COLA TV", SODA 
 https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:-1 group-title="COLA", STING 
+#EXTINF:-1 group-title="COLA TV", STING 
 https://live5.msrktz.app/live/14707124.m3u8 
-#EXTINF:-1 group-title="COLA", MUONTAIN DEW 
+#EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
 https://live5.msrktz.app/live/87547578.m3u8 
-#EXTINF:-1 group-title="COLA", WARRIOR 
+#EXTINF:-1 group-title="COLA TV", WARRIOR 
 https://live5.msrktz.app/live/97885009.m3u8 
-#EXTINF:-1 group-title="COLA", MONSTER 
+#EXTINF:-1 group-title="COLA TV", MONSTER 
 https://live5.msrktz.app/live/75915087.m3u8 
-#EXTINF:-1 group-title="COLA", PEPSI 
+#EXTINF:-1 group-title="COLA TV", PEPSI 
 https://live5.msrktz.app/live/90865415.m3u8 
-#EXTINF:-1 group-title="COLA", SPRITE 
+#EXTINF:-1 group-title="COLA TV", SPRITE 
 https://live5.msrktz.app/live/90725470.m3u8 
-#EXTINF:-1 group-title="COLA", RỒNG ĐỎ 
+#EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
 https://live5.msrktz.app/live/88508431.m3u8 
-#EXTINF:-1 group-title="COLA", C2 
+#EXTINF:-1 group-title="COLA TV", C2 
 https://live5.msrktz.app/live/08552895.m3u8 
-#EXTINF:-1 group-title="COLA", DR THANH 
+#EXTINF:-1 group-title="COLA TV", DR THANH 
 https://live5.msrktz.app/live/79665343.m3u8 
+#EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
+https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CỦ CẢI
 https://live.inplyr.com/room/360663.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LÃO LÂM 
