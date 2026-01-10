@@ -1,40 +1,46 @@
 #EXTM3U
-#EXTINF:-1 group-title="BASKETBALL", BLV KING
+#EXTINF:-1 group-title="BÓNG RỖ", BLV KING
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
-#EXTINF:-1 group-title="BASKETBALL", BLV CHAN SENA 
+#EXTINF:-1 group-title="BÓNG RỖ", BLV CHAN SENA 
 https://live.inplyr.com/room/515530.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV HENDRY
+#EXTINF:-1 group-title="BÓNG RỖ", BLV HENDRY
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
-#EXTINF:-1 group-title="BASKETBALL", BLV HUNTER
+#EXTINF:-1 group-title="BÓNG RỖ", BLV HUNTER
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767947011-0-0-ffde739c49aeaa1993c3158a2b3940e8
-#EXTINF:-1 group-title="BASKETBALL", BLV BRIAN
+#EXTINF:-1 group-title="BÓNG RỖ", BLV BRIAN
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
-#EXTINF:-1 group-title="BASKETBALL", BLV YẾN THANH
+#EXTINF:-1 group-title="BÓNG RỖ", BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="BASKETBALL", BLV LÝ QUỲ
+#EXTINF:-1 group-title="BÓNG RỖ", BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="BASKETBALL", BLV SHIN
+#EXTINF:-1 group-title="BÓNG RỖ", BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE CHYM
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE CỤ GIÀ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE KHU MẤN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE ALEX
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE ALEX
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", THIÊN ĐÔ
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE CỤ GIÀ
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE CHYM
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE KHU MẤN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", THIÊN ĐÔ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", KHOAI TÂY
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", KHOAI TÂY
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", VĂN MINH
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", VĂN MINH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", SÚP LƯƠN
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", SÚP LƯƠN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE QUÊ CHOA 1
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE QUÊ CHOA 1
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE QUÊ CHOA 2
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE QUÊ CHOA 2
 https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", Polsat Sport 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", Polsat Sport 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
+#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", Polsat Sport 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
 #EXTINF:-1 group-title="BLV TOPTOP", BLV BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
 #EXTINF:-1 group-title="BLV TOPTOP", BLV ADAM 
@@ -57,6 +63,8 @@ https://live.sladdogg.com/OBS/04/index.m3u8
 https://live.sladdogg.com/OBS/10/index.m3u8 
 #EXTINF:-1 group-title="BLV TOPTOP", BLV ZORRO
 https://live.sladdogg.com/OBS/07/index.m3u8
+#EXTINF:-1 group-title="BLV TOPTOP", BLV ỐNG BƠ
+https://live.sladdogg.com/OBS/08/index.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH", BLV NAM TÀO
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH", BLV BẮC ĐẨU
@@ -331,8 +339,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="UHD 4K", MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-#EXTINF:-1 group-title="UHD 4K", KIX TV
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="UHD 4K", HBO Signature
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
 #EXTINF:-1 group-title="UHD 4K", DAVINCI TV
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="UHD 4K", HISTORY
@@ -369,6 +377,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=187
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 group-title="VTVCAB", ON LIFE 
 https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 group-title="VTVCAB",ON GOLF
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="VTVCAB", HiTV
+https://toiyeuvietnam.dpdns.org/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV1 
 https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV2
@@ -407,6 +419,27 @@ https://liveh34.seenow.vn/hls/SCTV21/index.m3u8
 https://liveh34.seenow.vn/hls/SCTV22/index.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
+#EXTINF:-1 group-title="MOVIES", TVB VIỆT NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="MOVIES", CELESTIAL MOVIES
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164000&extension=ts&play_token=HqvKowEeO4
+#EXTINF:-1 group-title="MOVIES", KIX TV
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIES", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
+#EXTINF:-1 group-title="MOVIES", Hollywood Classics
+https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
+#EXTINF:-1 group-title="MOVIES", In The Box
+https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
+#EXTINF:-1 group-title="MOVIES", Box Hits
+https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
+#EXTINF:-1 group-title="MOVIES", HBO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/hbo/ToChaThangVThanh
+#EXTINF:-1 group-title="MOVIES", HBO Family
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV2
@@ -438,7 +471,9 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV1 
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV2 
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8 
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV3
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 1 
 https://live.canthotv.vn/live/tv/playlist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 2 
