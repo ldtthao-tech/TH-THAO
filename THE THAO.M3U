@@ -26,6 +26,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", THIÊN ĐÔ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", KHOAI TÂY
+https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", VĂN MINH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
@@ -95,7 +96,7 @@ https://live5.msrktz.app/live/82054853.m3u8
 https://live5.msrktz.app/live/59444581.m3u8 
 #EXTINF:-1 group-title="COLA TV", Ô LONG 
 https://live5.msrktz.app/live/97312754.m3u8 
-#EXTINF:-1 group-title="COLA TV", 7UP 
+#EXTINF:-1 group-title="COLA TV", 7 UP 
 https://live5.msrktz.app/live/78905744.m3u8 
 #EXTINF:-1 group-title="COLA TV", SODA 
 https://live5.msrktz.app/live/02456966.m3u8
@@ -171,7 +172,7 @@ https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-3098
 https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1766524528-0-0-9c0a75b41e227af68d5608b366f3ff79 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE JACK MAN 
 https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766594490-0-0-31d93c7b91d4d74a6f3054fe56e4fe30 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XO COCA 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE COCA 
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VOI 
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925 
@@ -444,7 +445,7 @@ https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/hbo/ToChaThangVThanh
 #EXTINF:-1 group-title="MOVIES", HBO Family
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
-#EXTINF:-1 group-title="4K UHD", HBO Signature
+#EXTINF:-1 group-title="MOVIES", HBO Signature
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
