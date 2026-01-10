@@ -245,107 +245,111 @@ https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e5
 https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1767191430-0-0-255bc8157c9e2c84cf09a5c4cf673969
 #EXTINF:-1 group-title="LƯƠNG SƠN", SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 1
+#EXTINF:-1 group-title="4K UHD", Max Sport 1 HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
+#EXTINF:-1 group-title="4K UHD", Max Sport 2 HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
+#EXTINF:-1 group-title="4K UHD", Max Sport 4 HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
+#EXTINF:-1 group-title="4K UHD", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 2
+#EXTINF:-1 group-title="4K UHD", LIVE TENNIS 2
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 3
+#EXTINF:-1 group-title="4K UHD", LIVE TENNIS 3
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Main Event
+#EXTINF:-1 group-title="4K UHD", Sky 4K UHDs Main Event
 https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks 4 NZ
+#EXTINF:-1 group-title="4K UHD", Sky 4K UHDs 4 NZ
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks 2 NZ 
+#EXTINF:-1 group-title="4K UHD", Sky 4K UHDs 2 NZ 
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 group-title="UHD 4K" tvg-id="sky-UHD 4Ks-action", Sky UHD 4Ks Action
-https://7pal.short.gy/sUHD 4Ksat
-#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Golf
-https://7pal.short.gy/sUHD 4Ksgf
-#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks FORMULA ONE
-https://7pal.short.gy/sUHD 4Ksf1
-#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks F1 UHD
+#EXTINF:-1 group-title="4K UHD" tvg-id="sky-4K UHDs-action", Sky 4K UHDs Action
+https://7pal.short.gy/s4K UHDsat
+#EXTINF:-1 group-title="4K UHD", Sky 4K UHDs Golf
+https://7pal.short.gy/s4K UHDsgf
+#EXTINF:-1 group-title="4K UHD", Sky 4K UHDs FORMULA ONE
+https://7pal.short.gy/s4K UHDsf1
+#EXTINF:-1 group-title="4K UHD", Sky 4K UHDs F1 UHD
 https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Football
-https://7pal.short.gy/sUHD 4Ksfb
-#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Premier League
-https://7pal.short.gy/sUHD 4Kspl
-#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks News
-https://7pal.short.gy/sUHD 4Ksnw
-#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 1
+#EXTINF:-1 group-title="4K UHD", Sky 4K UHDs Football
+https://7pal.short.gy/s4K UHDsfb
+#EXTINF:-1 group-title="4K UHD", Sky 4K UHDs Premier League
+https://7pal.short.gy/s4K UHDspl
+#EXTINF:-1 group-title="4K UHD", Sky 4K UHDs News
+https://7pal.short.gy/s4K UHDsnw
+#EXTINF:-1 group-title="4K UHD", TNT 4K UHD 1
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 2
+#EXTINF:-1 group-title="4K UHD", TNT 4K UHD 2
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 3
+#EXTINF:-1 group-title="4K UHD", TNT 4K UHD 3
 https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 4
+#EXTINF:-1 group-title="4K UHD", TNT 4K UHD 4
 https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="UHD 4K", DAZN TV
+#EXTINF:-1 group-title="4K UHD", DAZN TV
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="UHD 4K",BeiN UHD 4Ks Extra 🇺🇸 
+#EXTINF:-1 group-title="4K UHD",BeiN 4K UHDs Extra 🇺🇸 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="UHD 4K", BEIN XTRA
+#EXTINF:-1 group-title="4K UHD", BEIN XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="UHD 4K",Goal TV 
+#EXTINF:-1 group-title="4K UHD",Goal TV 
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8 
-#EXTINF:-1 group-title="UHD 4K", Billiards+ 
+#EXTINF:-1 group-title="4K UHD", Billiards+ 
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
-#EXTINF:-1 group-title="UHD 4K", Kozoom TV 
+#EXTINF:-1 group-title="4K UHD", Kozoom TV 
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934f…453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8 
-#EXTINF:-1 group-title="UHD 4K", Tennis Channel 
+#EXTINF:-1 group-title="4K UHD", Tennis Channel 
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="UHD 4K", ACE TV 
+#EXTINF:-1 group-title="4K UHD", ACE TV 
 https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8 
-#EXTINF:-1 group-title="UHD 4K", TENNIS + 
+#EXTINF:-1 group-title="4K UHD", TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="UHD 4K",UHD 4KS TV 🇹🇷 
-http://live.UHD 4Kstv.com.tr/hls/low/UHD 4Kstv_fhd/index.m3u8 
-#EXTINF:-1 group-title="UHD 4K",INFOUHD 4K 🇫🇷 
-http://212.102.60.80/InfoUHD 4K/index.m3u8 
-#EXTINF:-1 group-title="UHD 4K",TELETRAK 🇨🇱 
-http://unlimited6-cl.dps.live/UHD 4Kinghd/UHD 4Kinghd.smil/playlist.m3u8 
-#EXTINF:-1 group-title="UHD 4K",Sony Ten 1 HD 🇮🇳 
+#EXTINF:-1 group-title="4K UHD",4K UHDS TV 🇹🇷 
+http://live.4K UHDstv.com.tr/hls/low/4K UHDstv_fhd/index.m3u8 
+#EXTINF:-1 group-title="4K UHD",INFO4K UHD 🇫🇷 
+http://212.102.60.80/Info4K UHD/index.m3u8 
+#EXTINF:-1 group-title="4K UHD",TELETRAK 🇨🇱 
+http://unlimited6-cl.dps.live/4K UHDinghd/4K UHDinghd.smil/playlist.m3u8 
+#EXTINF:-1 group-title="4K UHD",Sony Ten 1 HD 🇮🇳 
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
-#EXTINF:-1 group-title="UHD 4K",RTA UHD 4Ks HD Ban Vs AFG 
+#EXTINF:-1 group-title="4K UHD",RTA 4K UHDs HD Ban Vs AFG 
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8 
-#EXTINF:-1 group-title="UHD 4K",Redbull TV
+#EXTINF:-1 group-title="4K UHD",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="UHD 4K", UFC LIVE
+#EXTINF:-1 group-title="4K UHD", UFC LIVE
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 group-title="UHD 4K", MMA
+#EXTINF:-1 group-title="4K UHD", MMA
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
-#EXTINF:-1 group-title="UHD 4K", FIGHTING
+#EXTINF:-1 group-title="4K UHD", FIGHTING
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
-#EXTINF:-1 group-title="UHD 4K", FITE 247
+#EXTINF:-1 group-title="4K UHD", FITE 247
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
-#EXTINF:-1 group-title="UHD 4K", COMBAT
+#EXTINF:-1 group-title="4K UHD", COMBAT
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
-#EXTINF:-1 group-title="UHD 4K", IMPACT Wrestling 
+#EXTINF:-1 group-title="4K UHD", IMPACT Wrestling 
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="UHD 4K", Fight Network
+#EXTINF:-1 group-title="4K UHD", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="UHD 4K", Boxing TV
+#EXTINF:-1 group-title="4K UHD", Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-#EXTINF:-1 group-title="UHD 4K", Stadium
+#EXTINF:-1 group-title="4K UHD", Stadium
 https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
-#EXTINF:-1 group-title="UHD 4K", PFL MMA
+#EXTINF:-1 group-title="4K UHD", PFL MMA
 https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
-#EXTINF:-1 group-title="UHD 4K", GLORY
+#EXTINF:-1 group-title="4K UHD", GLORY
 https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_channelId=99991278
-#EXTINF:-1 group-title="UHD 4K", TNA Wrestling Channel
+#EXTINF:-1 group-title="4K UHD", TNA Wrestling Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
-#EXTINF:-1 group-title="UHD 4K", UFC
+#EXTINF:-1 group-title="4K UHD", UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
-#EXTINF:-1 group-title="UHD 4K", United Fight Alliance
+#EXTINF:-1 group-title="4K UHD", United Fight Alliance
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-#EXTINF:-1 group-title="UHD 4K", MMA Junkie
+#EXTINF:-1 group-title="4K UHD", MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-#EXTINF:-1 group-title="UHD 4K", HBO Signature
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
-#EXTINF:-1 group-title="UHD 4K", DAVINCI TV
+#EXTINF:-1 group-title="4K UHD", DAVINCI TV
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="UHD 4K", HISTORY
+#EXTINF:-1 group-title="4K UHD", HISTORY
 https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
-#EXTINF:-1 group-title="UHD 4K", TV5 MONDE
+#EXTINF:-1 group-title="4K UHD", TV5 MONDE
 https://liveh12byt.vtvprime.vn/hls/TV5/index.m3u8
 #EXTINF:-1 group-title="VTVCAB", ON VIỆT GIẢI TRÍ
 https://freem3u.xyz/api/live/play.m3u8?vid=180
@@ -407,7 +411,7 @@ https://liveh34.seenow.vn/hls/SCTV13/index.m3u8
 https://liveh34.seenow.vn/hls/SCTV14/index.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV16
 https://liveh34.seenow.vn/hls/SCTV16/index.m3u8
-#EXTINF:-1 group-title="SCTV", SCTV19
+#EXTINF:-1 group-title="SCTV", SCTV18
 https://liveh34.seenow.vn/hls/SCTV18/index.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV19
 https://liveh34.seenow.vn/hls/SCTV19/index.m3u8
@@ -440,6 +444,8 @@ https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/hbo/ToChaThangVThanh
 #EXTINF:-1 group-title="MOVIES", HBO Family
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
+#EXTINF:-1 group-title="4K UHD", HBO Signature
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV2
