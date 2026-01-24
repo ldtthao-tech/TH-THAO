@@ -82,16 +82,20 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", LIVE CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA TV",  THIÊN ĐÔ
+#EXTINF:-1 group-title="QUÊ CHOA TV", THIÊN ĐÔ
 https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA TV", THIÊN ĐÔ 2
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", KHU MẤN
 https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA TV", KHU MẤN 2
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", KHOAI TÂY
 https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA TV", KHOAI TÂY 2
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", VĂN MINH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA TV", SÚP LƯƠN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", LIVE QUÊ CHOA 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
 
@@ -496,7 +500,7 @@ https://liveh34.seenow.vn/hls/SCTV3/index.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV4
 https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV6
-https://liveh34.seenow.vn/hls/SCTV6/index.m3u8
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV7
 https://liveh34.seenow.vn/hls/SCTV7/index.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV8
@@ -573,9 +577,9 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV 
-https://ott1.nethubtv.vn/live/antv/playlist.m3u8 
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QPVN 
-https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8 
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CÀ MAU TV 
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV1 
@@ -595,9 +599,9 @@ http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL3
-https://liveh34.vtvprime.vn/hls/VINHLONG3/03.m3u8 
+https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL4 
-https://liveh34.vtvprime.vn/hls/VINHLONG4/03.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
@@ -623,13 +627,13 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV3 
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV KEYS
-https://liveh12byt.vtvprime.vn/hls/HTVKey/03.m3u8 
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV7
-https://liveh12byt.vtvprime.vn/hls/HTV7HD/03.m3u8
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THỂ THAO 
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV9 
-http://125hvt.ddns.net:21585/htv9/index.m3u8 
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THUẦN VIỆT
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV CA NHẠC
