@@ -37,11 +37,11 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=http
 #EXTINF:-1 group-title="VOLLEYBALL", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JWkVIw5p/live.isml/.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MjRfxffl/live.isml/.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eyyStsZb/live.isml/.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ih9h1LzF/live.isml/.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QqLkahKJ/live.isml/.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0fTNStLE/live.isml/.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KbTWX97v/live.isml/.m3u8
 
@@ -88,8 +88,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", CỤ GIÀ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA TV", LIVE CHYM
+#EXTINF:-1 group-title="QUÊ CHOA TV", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA TV", RICKY
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", THIÊN ĐÔ
 https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", THIÊN ĐÔ 2
@@ -745,5 +747,6 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
 
 
