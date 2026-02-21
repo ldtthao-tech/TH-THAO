@@ -93,8 +93,11 @@ https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
 https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzE2ODEwOTMsInVyaSI6IlwvaHR2Y1wva2hhbmhob2EuNDgwcC5uYi5hZG0udG1zIiwiaXAiOiIifQ.w4tYoxp4T451h_YsCcwsz0W3sND2NqetMh6P99m5Bi4-/htvc/khanhhoa.480p.nb.adm.tms/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV HD
+https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV 1
+https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
+
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐAK LAK 
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", GIA LAI TV 
