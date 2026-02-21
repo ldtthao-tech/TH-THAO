@@ -94,10 +94,9 @@ https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV HD
-https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
+https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV 1
 https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
-
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐAK LAK 
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", GIA LAI TV 
@@ -1087,90 +1086,6 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85692690.m3u8
 http://acces4k.info:8089/live/1256890450567/3724705289264/85692691.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport SD" tvg-logo="http://acces4k.info:8089/logo/chn/85692691.jpg" group-title="AR | SPORT SD",Thamanya 3 Sport SD
 http://acces4k.info:8089/live/1256890450567/3724705289264/85692691.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 4K" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium1.jpg" group-title="AR | SPORT 4K",AD Sport Premium 1 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 4K" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium1.jpg" group-title="AR | SPORT 4K",AD Sport Premium 1 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/478.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 4K" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium2.jpg" group-title="AR | SPORT 4K",AD Sport Premium 2 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 4K" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium2.jpg" group-title="AR | SPORT 4K",AD Sport Premium 2 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/475.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 1 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT 4K",beIN sport 1 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/26806.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 2 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT 4K",beIN sport 2 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/26805.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 3 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT 4K",beIN sport 3 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/26804.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 4 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT 4K",beIN sport 4 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/26803.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 5 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT 4K",beIN sport 5 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/26802.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 6 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT 4K",beIN sport 6 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/26801.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 7 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT 4K",beIN sport 7 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/26800.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 8 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT 4K",beIN sport 8 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/26799.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 9 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT 4K",beIN sport 9 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/26798.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 1 4K" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR | SPORT 4K", BEIN SPORTS XTRA 4K
-https://bein-xtra-xumo.amagi.tv/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 1 4K" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR | SPORT 4K",BeIN sport Extra 1 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 1 4K" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR | SPORT 4K",BeIN sport Extra 1 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/814.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 2 4K" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR | SPORT 4K",BeIN sport Extra 2 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/815.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 2 4K" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR | SPORT 4K",BeIN sport Extra 2 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/815.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 3 HD" tvg-logo="" group-title="AR | SPORT 4K",BeIN sport Extra 3 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692820.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport 4K" tvg-logo="http://acces4k.info:8089/logo/chn/85692683.jpg" group-title="AR | SPORT 4K",Thamanya 1 Sport 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport 4K" tvg-logo="http://acces4k.info:8089/logo/chn/85692683.jpg" group-title="AR | SPORT 4K",Thamanya 1 Sport 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692683.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport 4K" tvg-logo="http://acces4k.info:8089/logo/chn/85692684.jpg" group-title="AR | SPORT 4K",Thamanya 2 Sport 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport 4K" tvg-logo="http://acces4k.info:8089/logo/chn/85692684.jpg" group-title="AR | SPORT 4K",Thamanya 2 Sport 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692684.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport 4K" tvg-logo="http://acces4k.info:8089/logo/chn/85692685.jpg" group-title="AR | SPORT 4K",Thamanya 3 Sport 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport 4K" tvg-logo="http://acces4k.info:8089/logo/chn/85692685.jpg" group-title="AR | SPORT 4K",Thamanya 3 Sport 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692685.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR | SPORT 4K",StarzPlay Sport 4K
-http://acces4k.info:8089/live/1256890450567/3724705289264/472.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
